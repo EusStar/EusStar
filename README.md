@@ -9,5 +9,7 @@
 <a onclick="window.open(this.href,'_blank');return false;" href="https://www.instagram.com/star.ch1/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
  
  <a href="https://www.instagram.com/star.ch1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
+  <a href="https://www.instagram.com/star.ch1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"   target="_blank"></a>
+
 
 </div> 
